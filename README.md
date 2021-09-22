@@ -3,7 +3,7 @@ yarn workspace demo项目
 
 ## init
 ```
-yarn i
+yarn
 ```
 
 ## run
